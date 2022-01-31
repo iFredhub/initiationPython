@@ -1,5 +1,7 @@
+# Avant tout, voici les fonction (petits programmes) qu'on va utiliser
 # type() permet de connaitre le type d'une variable
 # print() permet d'afficher quelque chose dans un terminal
+# input() permet a l'utilisateur d'entrer ube donnee durant l'execution du programme
 
 # EXEMPLE 1 ---------------------------------------------
 # On affiche "hello world" dans le terminal. Ensuite,
